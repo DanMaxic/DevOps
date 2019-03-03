@@ -1,0 +1,10 @@
+
+├── Tomcat-Final-Artifact
+│   ├── Vagrantfile
+│   ├── machine-content
+│   │   └── port-modifier.sh
+│   ├── readme.md
+│   └── user-data-scripts
+│       ├── user-data.sh
+│       └── wetty-installer.sh
+└── readme.md
